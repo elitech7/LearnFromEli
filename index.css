@@ -1,0 +1,69 @@
+header
+{
+background-color: #FFC93C;
+text-align: center;
+padding: 5px;
+margin-top: -30px;
+}
+p
+{
+  font-family: 'Fuzzy Bubbles', cursive;
+  font-weight: bold;
+}
+body
+{
+  margin: 0px;
+  background-color: #2C2E43;
+  font-size: 24px
+}
+h1
+{
+font-family: 'Bebas Neue', cursive;
+font-size: 90px;
+margin-bottom: -20px;
+color: #5C1273;
+}
+main
+{
+  margin-top: 20px;
+}
+hr
+{
+  border: 5px solid #FFC93C;
+
+}
+img
+{
+height: 300px
+}
+section
+{
+    display: flex;
+    width: 80%; 
+}
+h3
+{
+text-align:center; margin-left: 1%; width: 100%;
+}
+@media only screen and (max-width:600px) {
+  h3 {
+    margin-left: 20%;
+  }
+  section
+  {
+   width: 50%;
+  }
+  img
+{
+height: 150px
+}
+h1
+{
+font-family: 'Bebas Neue', cursive;
+font-size: 70px;
+margin-bottom: -20px;
+color: #5C1273;
+}
+
+
+

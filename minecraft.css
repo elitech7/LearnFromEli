@@ -1,0 +1,24 @@
+header
+  {
+  background-color: #793c20;
+  padding: 1px;
+  }
+  body
+  {
+  margin: 0px;
+  background-color: #00a170;
+  }
+  section
+  {
+  background-color:#00a170;
+  margin: 0px 25px
+  }
+  p
+  {
+   color: #793c20;
+   font-family: cursive;
+  }
+  li
+  {
+  font-family: cursive;
+  }
