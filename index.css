@@ -51,6 +51,7 @@ background-color: #FFC93C;
 text-align: center;
 padding: 5px;
 margin-top: -30px;
+width: 100%;
 }
 p
 {
@@ -84,11 +85,11 @@ img
 {
 height: 70%;
 width: 100%;
+justify-content: flex-start;
 }
 section
 {
-    display: flex;
-    width: 80%; 
+    display: flex; 
 }
 
 h3 
@@ -98,14 +99,6 @@ h3
     margin-left: 1%; 
     width: 100%;
   }
-  section
-  {
-   width: 50%;
-  }
-  img
-{
-height: 150px
-}
 h1
 {
 font-family: 'Bebas Neue', cursive;
