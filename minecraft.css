@@ -1,23 +1,49 @@
 header
   {
-  background-color: #793c20;
+  background-color: #00a170;
   padding: 1px;
   }
   body
   {
   margin: 0px;
-  background-color: #00a170;
+  background-color: #793c20;
   }
   section
   {
-  background-color:#00a170;
+  background-color:#793c20;
   margin: 0px 25px
   }
   p
   {
-   color: #793c20;
+   color: #00a170;
+   font-family: mcreg;
   }
 .homebtn
 {
   width: 200px;
+}
+@font-face 
+{
+  font-family: mcbold;
+  src: url(minecraft-bold.ttf);
+}
+
+div {
+  font-family: mcbold;
+}
+h1
+{
+  font-family: mcbold;
+}
+h2
+{
+  font-family: mcbold;
+}
+@font-face {
+  font-family: mcreg;
+  src: url(minecraft-regular.ttf);
+}
+
+div {
+  font-family: mcreg;
 }

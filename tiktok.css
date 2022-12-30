@@ -1,11 +1,13 @@
 p
 {
     color: white;
+    margin-top: 3px;
 }
 h1
 {
     color: #ff0050;
     text-align: center;
+    margin: 0px;
 }
 body
 {
